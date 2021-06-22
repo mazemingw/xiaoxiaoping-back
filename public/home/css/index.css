@@ -1,0 +1,44 @@
+@charset "utf-8";
+/*--------正文开始----------*/
+.clothing_news_ablut{ width:1000px; margin:10px auto 0 auto;}
+
+.clothing_news{ width:293px; background:#fff; height:223px; border:1px solid #dddddd;}
+
+.publictitle_whilt{ background:url(../images/hengxian012_37.jpg) repeat-x; height:22px; line-height:22px; margin:15px 11px 0 11px; }
+.publictitle_whilt span{  background:#fff url(../images/tubiao05_36.jpg) no-repeat left center;; display:inline-block; height:22px; font-size:16px; font-weight:700; color:#890101; padding-left:21px;}
+.publictitle_whilt span b{display:inline-block; padding:0 10px; color:#333333;}
+
+.clothing_news_list{ width:268px; height:158px; border:1px solid #dddddd; overflow:auto; margin-left:11px; margin-top:15px;}
+.clothing_news_list li{ margin:0 6px; border-bottom:1px dashed #9c9c9c; height:36px; line-height:36px; background:url(../images/dian01_44.jpg) no-repeat 5px center; padding-left:15px;}
+.clothing_news_list li a{ color:#666666; font-size:14px;}
+
+.clothing_about{ width:693px; background:#fff; border:1px solid #dddddd; height:223px;}
+
+.clothing_about_imgtxt{ width:658px; font-size:14px; margin:20px 0 0 20px;}
+.clothing_about_imgtxt img{ width:158px; height:86px; float:left; padding:0 10px 0px 0;}
+.clothing_about_imgtxt p{ text-indent:2em; line-height:24px; color:#666;} 
+
+
+.clothing_san{width:1000px; margin:10px auto 0 auto;}
+.clothing_san_left{width:293px; background:#fff; border:1px solid #dddddd;}
+.clothing_san_cen{width:398px; background:#fff; border:1px solid #dddddd; margin-left:10px;}
+.clothing_san_right{width:285px; background:#fff; border:1px solid #dddddd;}
+
+
+.clothing_san_list{ margin:0px 14px;overflow:hidden;}
+.clothing_san_list li{  border-bottom:1px dashed #9c9c9c; height:30px; line-height:30px; background:url(../images/dian01_44.jpg) no-repeat 5px center; padding-left:15px;}
+.clothing_san_list li a{ color:#666666; font-size:14px;}
+
+.clothing_product{width:1000px; margin:10px auto 0 auto;}
+.clothing_product_type{ padding-bottom:10px;width:293px; background:#fff;border:1px solid #dddddd;}
+
+.clothing_type_list{ width:268px; overflow:hidden; margin-left:11px; margin-top:15px;}
+.clothing_type_list li{ margin:0 6px; border-bottom:1px dashed #9c9c9c; height:30px; line-height:30px; background:url(../images/dian01_44.jpg) no-repeat 5px center; padding-left:15px;}
+.clothing_type_list li a{ color:#666666; font-size:14px;}
+
+.clothing_product_p{ padding:0 10px 0px 12px;width:671px; background:#fff; border:1px solid #dddddd;}
+.clothing_img{ overflow:hidden;margin-left:-2px;}
+.clothing_img li{ width:166px; height:220px; float:left; background:url(../images/xifubj_10_1.jpg) no-repeat; margin:11px 0 0 2px;overflow:hidden;}
+.clothing_img li img{width:135px;height:170px;}
+.clothing_img li a{ display:block; width:135px; margin:9px 0 0 17px;color:#242424;}
+.clothing_img li a p{ text-align:center; font-size:14px; color:#242424; margin-top:6px;}

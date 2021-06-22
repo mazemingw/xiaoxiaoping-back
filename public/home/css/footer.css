@@ -1,0 +1,17 @@
+@charset "utf-8";
+.hzhb_yqlj{ width:998px; margin:10px auto 0 auto; border:1px solid #dddddd; background:#f9f9f9;}
+.hzhb_list{ overflow:hidden;}
+.hzhb_list li{ width:90px; float:left; margin-left:19px; display:inline; text-align:center; margin-top:10px;}
+
+.yqlj_list{ overflow:hidden; padding-bottom:10px;}
+.yqlj_list li{ float:left; margin-left:15px; padding-top:10px; display:inline;}
+.yqlj_list li a{ font-size:14px; color:#737373;}
+
+
+
+/*底部开始*/
+.foot{ width:998px; margin:10px auto 0 auto; border:1px solid #ddd;}
+.foot_nav{ text-align:center; padding-top:13px;}
+.foot_nav a{ font-size:14px; padding:0 5px;}
+.foot_nei{ padding-bottom:20px;}
+.foot_nei p{ text-align:center; padding-top:10px;}

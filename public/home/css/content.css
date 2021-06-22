@@ -1,0 +1,29 @@
+@charset "utf-8";
+/*--------正文开始----------*/
+
+.content{width:1000px; margin:10px auto 0 auto;}
+
+.contenttitle_whilt{ background:url(../images/hengxian012_37.jpg) repeat-x; height:22px; line-height:22px; margin:15px 11px 0 11px; }
+.contenttitle_whilt span{  background:#fff url(../images/tubiao05_36.jpg) no-repeat left center;; display:inline-block; height:22px; font-size:16px; font-weight:700; color:#890101; padding-left:21px;}
+.contenttitle_whilt span b{display:inline-block; padding:0 10px; color:#333333;}
+
+.content_left{width:293px; background:#fff;border:1px solid #dddddd;}
+
+.content_left .list{ width:268px; overflow:hidden; margin-left:11px; margin-top:15px;}
+.content_left .list li{ margin:0 6px; border-bottom:1px dashed #9c9c9c; height:30px; line-height:30px; background:url(../images/dian01_44.jpg) no-repeat 5px center; padding-left:15px;}
+.content_left .list li a{ color:#666666; font-size:14px;}
+
+.content_right{width:695px;background:#fff;  }
+.content_bottom{ padding:0;border:1px solid #dddddd;}
+.aboutUs{
+	padding:8px;font-size:16px;
+}
+.aboutUs p{line-height:28px;font-size:16px;text-indent:2em;}
+/* 面包屑 */
+.mbxdh{ height:34px;}
+.mbxdh_left{ width:260px; float:left; font-size:15px; line-height:34px;}
+.mbxdh_right{ background:url(../images/sige_15.jpg) no-repeat; float:right; width:328px; height:34px; line-height:34px; font-size:15px;}
+
+.contenttitle_us{ background:url(../images/datitlebj_03.jpg) no-repeat; height:34px; line-height:34px; font-size:16px; padding-left:27px; font-weight:700; color:#333333;}
+.contenttitle_us span{ float:left;}
+.contenttitle_us span a{font-size:16px; color:#333333; padding-right:10px;}
